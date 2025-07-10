@@ -1,6 +1,6 @@
 A simple 555 based circuit to drive NE-2 neon lamps from 5V USB without a microcontroller or software.
 
-Warning: Might generate Voltages exceeding [SELV](https://en.wikipedia.org/wiki/Extra-low_voltage#Separated_or_safety_extra-low_voltage_(SELV))
+Warning: Might generate Voltages exceeding [ELV](https://en.wikipedia.org/wiki/Extra-low_voltage)
 
 Simulation:
 [555 PWM Generator](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCCsB0AM8MUgLAUwLQA4QHY5lkmTACYBmZANksx00pEoE5xYo3IMwwAoMSyCBIlk4ZKJI4SY0bOhMFTIpBWZYZIkx4B3cE2ki2wicjawdeg6ctCpIc7rD7bBkS-s8AxjbKZRT6WQyQKFoTnQCUPEcalhuDSY-ZEFYODiPAHMbIOkAkHFsMx4AExANaXKy2FFK6WLUADMAQwBXABsAFwta2GxKyvMAJSFMbG4DUZA1exnrFJnUyB4AeTLIA178-iFNoqzgtjJqspJD04WLEknxtdzSD11Km6eYjzAcGuPiBkkKmnBWIh7GEQINUABnACW4I6TQAdp5UCUqrJtpVvkIQPVmu0uo91lsGP0CQ53L5-M5yQ8fH4bL8PAB7fKYtimBSsYEIMhMWCUEjzEJkHhMljSQ40D4c1KIJgxSB8wQQXhAA)
