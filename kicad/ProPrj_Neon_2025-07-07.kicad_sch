@@ -2802,7 +2802,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Neo-easyedapro:HDR-TH_2P-P2.54-H-F-W10.0-N"
+		(property "Footprint" "ProPrj_Neon_2025-07-07:HDR-TH_2P-P2.54-H-F-W10.0-N"
 			(at 127 91.44 0)
 			(effects
 				(font
@@ -2916,7 +2916,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Neo-easyedapro:USB-AM-TH_AM90"
+		(property "Footprint" "ProPrj_Neon_2025-07-07:USB-AM-TH_AM90"
 			(at 33.02 44.45 0)
 			(effects
 				(font
@@ -3034,15 +3034,15 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "~"
-			(at 97.79 33.02 0)
+		(property "Value" "BAV99"
+			(at 102.616 31.496 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Neo-easyedapro:SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR"
+		(property "Footprint" "ProPrj_Neon_2025-07-07:SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR"
 			(at 97.79 33.02 0)
 			(effects
 				(font
@@ -3355,7 +3355,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "ProPrj_Neo-easyedapro:IND-TH_BD4.0-L10.5-P14.50-D0.6"
+		(property "Footprint" "ProPrj_Neon_2025-07-07:IND-TH_BD3.2-L7.0-P11.00-D0.5"
 			(at 90.17 90.17 0)
 			(effects
 				(font
@@ -3471,7 +3471,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "ProPrj_Neo-easyedapro:R0603"
+		(property "Footprint" "ProPrj_Neon_2025-07-07:R0603"
 			(at 115.57 90.17 0)
 			(effects
 				(font
@@ -3597,15 +3597,15 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "~"
-			(at 96.52 95.25 0)
+		(property "Value" "BSS123"
+			(at 101.092 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Neo-easyedapro:SOT-323-3_L2.0-W1.3-P1.30-LS2.3-BR"
+		(property "Footprint" "ProPrj_Neon_2025-07-07:SOT-323-3_L2.0-W1.3-P1.30-LS2.3-BR"
 			(at 96.52 95.25 0)
 			(effects
 				(font
@@ -3723,7 +3723,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "ProPrj_Neo-easyedapro:R0603"
+		(property "Footprint" "ProPrj_Neon_2025-07-07:R0603"
 			(at 78.74 90.17 0)
 			(effects
 				(font
@@ -3838,7 +3838,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "ProPrj_Neo-easyedapro:C0603"
+		(property "Footprint" "ProPrj_Neon_2025-07-07:C0603"
 			(at 102.87 52.07 0)
 			(effects
 				(font
@@ -3908,7 +3908,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "ProPrj_Neo-easyedapro:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
+		(property "Footprint" "ProPrj_Neon_2025-07-07:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
 			(at 80.01 50.8 0)
 			(effects
 				(font
@@ -4041,7 +4041,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "ProPrj_Neo-easyedapro:C0603"
+		(property "Footprint" "ProPrj_Neon_2025-07-07:C0603"
 			(at 48.26 43.18 0)
 			(effects
 				(font
@@ -4111,7 +4111,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "ProPrj_Neo-easyedapro:C0603"
+		(property "Footprint" "ProPrj_Neon_2025-07-07:C0603"
 			(at 109.22 96.52 0)
 			(effects
 				(font
@@ -4292,7 +4292,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "ProPrj_Neo-easyedapro:SOD-123FL_L2.8-W1.8-LS3.7-RD"
+		(property "Footprint" "ProPrj_Neon_2025-07-07:SOD-123FL_L2.8-W1.8-LS3.7-RD"
 			(at 102.87 90.17 0)
 			(effects
 				(font
@@ -4464,7 +4464,7 @@
 			)
 		)
 		(property "Value" "100kΩ"
-			(at 78.74 34.29 90)
+			(at 78.74 33.782 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4472,7 +4472,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "ProPrj_Neo-easyedapro:RES-ADJ-TH_3P-L9.5-W4.9-P2.50-L_3296W"
+		(property "Footprint" "ProPrj_Neon_2025-07-07:RES-ADJ-TH_3P-L9.5-W4.9-P2.50-L_3296W"
 			(at 81.28 35.56 0)
 			(effects
 				(font
